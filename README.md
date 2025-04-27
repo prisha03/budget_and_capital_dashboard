@@ -37,9 +37,10 @@ It combines high-level metrics with employee-level detail to provide a full pict
 - **Employee Overview**: Drill down into individual employee contributions and costs.
 
 ## How to Explore the Dashboard
-1. Download and open the `.pbix` file in Power BI Desktop.
-2. Use slicers to focus on specific departments, projects, or employees.
-3. Hover over charts to view additional details and trends.
+1. Open the .pbix file in Power BI Desktop to explore all the charts, filters, and insights interactively.
+2. If you just want a quick overview, you can also check out the attached PDF (Data Analyst Project.pdf).
+3. Feel free to use the slicers to focus on different departments, project statuses, or employees.
+4. You can hover over charts and KPIs for more details, and click into visuals to dig deeper into the data.
 
 ## Connect with Me
 If you have any feedback or questions, feel free to reach out:
